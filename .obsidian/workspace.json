@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "80f6d421ddff172d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd39006b03921c4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd7f2b3c67c7a655",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机/易错知识点总结/Office/Office目录.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Office目录"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7714d6839f7a4516",
+    "type": "split",
+    "children": [
+      {
+        "id": "72d07a3429d1102c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d130fa0611d1ef75",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "00cba86faee15bd8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d0227cabd1aaa9ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c2d9f38f26cfdb3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "11195bab3f81f25c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3dab36c45078bda",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "语文/每日翻译.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "每日翻译 的反向链接列表"
+            }
+          },
+          {
+            "id": "d4b1af3119c27db1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "语文/每日翻译.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "每日翻译 的出链列表"
+            }
+          },
+          {
+            "id": "8135503331c74e30",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "6e054aab6781221a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "语文/每日翻译.md"
+              },
+              "icon": "lucide-list",
+              "title": "每日翻译 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "dd7f2b3c67c7a655",
+  "lastOpenFiles": [
+    "计算机/易错知识点总结/知识点目录.md",
+    "计算机/易错知识点总结/常用软件/常用软件目录.md",
+    "计算机/易错知识点总结/常用软件/Ghost.md",
+    "计算机/易错知识点总结/Office/Office目录.md",
+    "计算机/易错知识点总结/常用软件/3DMarkVantage.md",
+    "计算机/故障检测与维修.md",
+    "Resource/Pasted image 20250419162946.png",
+    "Example.md",
+    "计算机/易错知识点总结/Office/Word/Word目录.md",
+    "计算机/易错知识点总结/Office/Word/邮件合并.md",
+    "计算机/易错知识点总结/常用软件/Diskgenius.md",
+    "计算机/易错知识点总结/常用软件/CPU-Z.md",
+    "计算机/易错知识点总结/常用软件/CrystalDiskMark.md",
+    "Resource/Pasted image 20250419165147.png",
+    "Resource/Pasted image 20250419165131.png",
+    "Resource/Pasted image 20250419165006.png",
+    "Resource/Pasted image 20250419164956.png",
+    "Resource/Pasted image 20250419164944.png",
+    "Resource/Pasted image 20250419164938.png",
+    "Resource/Pasted image 20250419164817.png",
+    "计算机/易错知识点总结/常用软件/Nero.md",
+    "Resource/Pasted image 20250419164554.png",
+    "Resource/Pasted image 20250419164406.png",
+    "计算机/易错知识点总结/Office/WPS/WPS目录.md",
+    "Resource",
+    "邮件合并.md",
+    "计算机/易错知识点总结/Office/Excel/Excel目录.md",
+    "SorftWare/常用软件目录.md",
+    "SorftWare",
+    "常用软件/常用软件目录.md",
+    "常用软件",
+    "计算机/Neovim 配置详解.md",
+    "().md",
+    "计算机/易错知识点总结/Office/PPT/PPT目录.md",
+    "未命名 1",
+    "未命名",
+    "Office/Excel/Catalogue.md",
+    "Office/Excel",
+    "Office",
+    "计算机/易错知识点总结/Office/Excel/Catalogue.md",
+    "计算机/易错知识点总结/Office/Excel/Catalogue 1.md",
+    "计算机/易错知识点总结/Office/WPS",
+    "计算机/易错知识点总结/Office/PPT",
+    "计算机/易错知识点总结/Office/Excel",
+    "未命名.md",
+    "未命名.canvas"
+  ]
+}

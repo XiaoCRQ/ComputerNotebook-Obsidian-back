@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
+  "baseFontSize": 20,
+  "baseFontSizeAction": true,
+  "monospaceFontFamily": "CaskaydiaCove Nerd Font",
+  "showRibbon": false
+}

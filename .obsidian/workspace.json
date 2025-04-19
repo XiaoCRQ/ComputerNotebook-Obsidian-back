@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/易错知识点总结/Office/Office目录.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Office目录"
+              "title": "README"
             }
           }
         ]
@@ -167,12 +167,15 @@
   },
   "active": "dd7f2b3c67c7a655",
   "lastOpenFiles": [
+    "计算机/README.md",
     "计算机/易错知识点总结/知识点目录.md",
+    "计算机/Neovim 配置详解.md",
+    "README.md",
+    "计算机/故障检测与维修.md",
+    "计算机/易错知识点总结/Office/Office目录.md",
     "计算机/易错知识点总结/常用软件/常用软件目录.md",
     "计算机/易错知识点总结/常用软件/Ghost.md",
-    "计算机/易错知识点总结/Office/Office目录.md",
     "计算机/易错知识点总结/常用软件/3DMarkVantage.md",
-    "计算机/故障检测与维修.md",
     "Resource/Pasted image 20250419162946.png",
     "Example.md",
     "计算机/易错知识点总结/Office/Word/Word目录.md",
@@ -198,7 +201,6 @@
     "SorftWare",
     "常用软件/常用软件目录.md",
     "常用软件",
-    "计算机/Neovim 配置详解.md",
     "().md",
     "计算机/易错知识点总结/Office/PPT/PPT目录.md",
     "未命名 1",
@@ -211,7 +213,6 @@
     "计算机/易错知识点总结/Office/WPS",
     "计算机/易错知识点总结/Office/PPT",
     "计算机/易错知识点总结/Office/Excel",
-    "未命名.md",
     "未命名.canvas"
   ]
 }

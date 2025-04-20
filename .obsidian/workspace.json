@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/易错知识点总结/CentOS/user.md",
+                "file": "计算机/易错知识点总结/组装/常见问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "user"
+              "title": "常见问题"
             }
           }
         ]
@@ -102,8 +102,13 @@
   },
   "active": "dd7f2b3c67c7a655",
   "lastOpenFiles": [
-    "计算机/易错知识点总结/CentOS/CentOS目录.md",
+    "计算机/易错知识点总结/组装/组装目录.md",
+    "计算机/易错知识点总结/组装/常见问题.md].md",
+    "计算机/易错知识点总结/组装/常见问题.md",
+    "计算机/易错知识点总结/组装/初步诊断.md",
+    "计算机/易错知识点总结/组装/USB.md",
     "计算机/易错知识点总结/CentOS/user.md",
+    "计算机/易错知识点总结/CentOS/CentOS目录.md",
     "计算机/易错知识点总结/CentOS/cmd.md",
     "计算机/易错知识点总结/CentOS/Web.md",
     "计算机/易错知识点总结/CentOS/DNS.md",
@@ -121,13 +126,8 @@
     "计算机/易错知识点总结/网页/CSS.md",
     "计算机/易错知识点总结/网页/JavaScript.md",
     "计算机/易错知识点总结/网页/HTML.md",
-    "计算机/易错知识点总结/组装/初步诊断.md",
-    "计算机/易错知识点总结/组装/组装目录.md",
     "计算机/易错知识点总结/Office/Office目录.md",
     "计算机/易错知识点总结/Office/WPS/WPS目录.md",
-    "计算机/易错知识点总结/Office/Word/邮件合并.md",
-    "计算机/易错知识点总结/Office/Word/Word目录.md",
-    "计算机/易错知识点总结/Office/Excel/Excel目录.md",
     "Resource/Windows7.pdf",
     "Resource/Office.pdf",
     "Resource/Pasted image 20250419163244.png",

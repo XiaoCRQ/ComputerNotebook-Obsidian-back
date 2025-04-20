@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "计算机/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "README"
             }
           }
         ]
@@ -102,17 +102,17 @@
   },
   "active": "dd7f2b3c67c7a655",
   "lastOpenFiles": [
-    "README.md",
-    "Git.md",
-    "计算机/未命名.md",
-    "计算机/README.md",
     "计算机/易错知识点总结/知识点目录.md",
+    "计算机/README.md",
+    "计算机/易错知识点总结/网络/结构化布线系统.md",
+    "计算机/易错知识点总结/网络/网络目录.md",
+    "Git.md",
+    "README.md",
+    "计算机/未命名.md",
     "Example.md",
     "2025-04-20.md",
     "计算机/故障检测与维修.md",
     "计算机/Neovim 配置详解.md",
-    "计算机/易错知识点总结/网络/网络目录.md",
-    "计算机/易错知识点总结/网络/结构化布线系统.md",
     "计算机/易错知识点总结/常用软件/Ghost.md",
     "计算机/易错知识点总结/常用软件/Diskgenius.md",
     "计算机/易错知识点总结/常用软件/CPU-Z.md",

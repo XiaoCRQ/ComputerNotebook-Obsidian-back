@@ -1,8 +1,10 @@
 {
   "vimMode": true,
   "promptDelete": false,
-  "newLinkFormat": "shortest",
+  "newLinkFormat": "relative",
   "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Resource"
+  "attachmentFolderPath": "Resource",
+  "newFileLocation": "current",
+  "useMarkdownLinks": true
 }

@@ -1,4 +1,4 @@
-- [Word](Word目录.md)
-- [Excel](Excel目录.md)
-- [PPT](PPT目录.md)
-- [WPS](WPS目录.md)
+- [Word](Word/Word目录.md)
+- [Excel](Excel/Excel目录.md)
+- [PPT](PPT/PPT目录.md)
+- [WPS](WPS/WPS目录.md)

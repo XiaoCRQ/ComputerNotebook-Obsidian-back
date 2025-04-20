@@ -1,0 +1,12 @@
+{
+  "app:toggle-ribbon": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ]
+}

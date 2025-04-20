@@ -42,7 +42,7 @@ subnet 192.168.1.0 netmask 255.255.255.0 {
 }
 ```
 
-### 指定静态 IP（可选）：
+### 指定 `printer` 主机的静态 IP（可选）：
 
 ```conf
 host printer {
@@ -150,3 +150,7 @@ sudo dhcpd -t
 # 日志查看
 tail -n 50 /var/log/messages
 ```
+
+> [!WARNING]
+> `DHCP` 服务器采用 `UDP` 封装，服务器端口为 `67`
+

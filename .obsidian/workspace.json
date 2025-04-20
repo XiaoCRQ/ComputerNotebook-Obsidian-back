@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/易错知识点总结/C语言/运算符.md",
+                "file": "计算机/易错知识点总结/C语言/字符串操作.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "运算符"
+              "title": "字符串操作"
             }
           }
         ]

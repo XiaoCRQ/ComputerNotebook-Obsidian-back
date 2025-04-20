@@ -1,9 +1,9 @@
 # 命令指南
 
-## 常用命
+## 常用命令
 
 ```
-Git: Commit-and-sync
+Git: Push
 ```
 
 ## 所有命令

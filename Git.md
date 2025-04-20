@@ -3,7 +3,7 @@
 ## 常用命令
 
 ```
-Git: Push
+Git: Commit-and-sync
 ```
 
 ## 所有命令

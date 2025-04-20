@@ -1,6 +1,6 @@
 # 命令指南
 
-## 常用命令
+## 常用命
 
 ```
 Git: Commit-and-sync

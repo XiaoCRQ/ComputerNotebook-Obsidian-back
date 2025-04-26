@@ -104,3 +104,7 @@
 
 - Web的默认路径
 	c:\inetpub\wwwroot
+
+- 端口
+	HTTP：80
+	HTTPS：443

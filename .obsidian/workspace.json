@@ -25,12 +25,14 @@
             "id": "2d1e9fd5d978f5e1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "计算机/易错知识点总结/网页/表单.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "表单"
             }
           }
         ],
@@ -155,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "计算机/易错知识点总结/网页/表单.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "表单 的大纲"
             }
           }
         ],

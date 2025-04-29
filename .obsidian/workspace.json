@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/易错知识点总结/Office/Excel/公式.md",
+                "file": "计算机/易错知识点总结/网络/网络目录.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "公式"
+              "title": "网络目录"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/易错知识点总结/Office/Excel/公式.md",
+                "file": "计算机/易错知识点总结/网络/网络目录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "公式 的反向链接列表"
+              "title": "网络目录 的反向链接列表"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/易错知识点总结/Office/Excel/公式.md",
+                "file": "计算机/易错知识点总结/网络/网络目录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "公式 的出链列表"
+              "title": "网络目录 的出链列表"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/易错知识点总结/Office/Excel/公式.md",
+                "file": "计算机/易错知识点总结/网络/网络目录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "公式 的大纲"
+              "title": "网络目录 的大纲"
             }
           }
         ]
@@ -187,13 +187,14 @@
   },
   "active": "2d1e9fd5d978f5e1",
   "lastOpenFiles": [
+    "计算机/易错知识点总结/网络/网络设备.md",
+    "计算机/易错知识点总结/网络/网络拓扑结构.md",
+    "计算机/易错知识点总结/Office/Excel/公式.md",
     "计算机/易错知识点总结/组装/cmd.md",
     "计算机/易错知识点总结/网页/表单.md",
     "计算机/易错知识点总结/网络/IPv4_IP.md",
     "计算机/易错知识点总结/网络/易错知识点整理.md",
     "计算机/易错知识点总结/网络/网络目录.md",
-    "计算机/易错知识点总结/网络/网络设备.md",
-    "计算机/易错知识点总结/网络/网络拓扑结构.md",
     "计算机/易错知识点总结/网络/交换技术.md",
     "计算机/易错知识点总结/网络/结构化布线系统.md",
     "计算机/易错知识点总结/常用软件/CrystalDiskMark.md",
@@ -216,7 +217,6 @@
     "计算机/易错知识点总结/知识点目录.md",
     "计算机/易错知识点总结/Windows7",
     "计算机/易错知识点总结/组装/打印机.md",
-    "计算机/易错知识点总结/组装/环境因素.md",
     "Resource/Pasted image 20250426204215.png",
     "Resource/Pasted image 20250426204007.png",
     "Resource/Pasted image 20250426201254.png",

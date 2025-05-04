@@ -4,5 +4,6 @@
   "baseFontSize": 20,
   "baseFontSizeAction": true,
   "monospaceFontFamily": "CaskaydiaCove Nerd Font",
-  "showRibbon": false
+  "showRibbon": false,
+  "interfaceFontFamily": ""
 }

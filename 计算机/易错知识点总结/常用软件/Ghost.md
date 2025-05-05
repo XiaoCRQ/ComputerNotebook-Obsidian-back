@@ -5,4 +5,4 @@
 > Ghost 保存的镜像文件为 **.GHO**
 
 # 界面
-![Image](<../../../../Resource/Pasted image 20250419164554.png>)
+![Image](<../../../Resource/Pasted image 20250419164554.png>)

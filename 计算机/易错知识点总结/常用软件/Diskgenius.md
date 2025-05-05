@@ -3,16 +3,16 @@
 
 # 界面
 - 主界面
-![Image](<../../../../Resource/Pasted image 20250419164817.png>)
+![Image](<../../../Resource/Pasted image 20250419164817.png>)
 - 文件菜单
-![Image](<../../../../Resource/Pasted image 20250419164938.png>)
+![Image](<../../../Resource/Pasted image 20250419164938.png>)
 - 磁盘菜单
-![Image](<../../../../Resource/Pasted image 20250419164944.png>)
+![Image](<../../../Resource/Pasted image 20250419164944.png>)
 - 分区
-![Image](<../../../../Resource/Pasted image 20250419164956.png>)
+![Image](<../../../Resource/Pasted image 20250419164956.png>)
 - 工具菜单
-![Image](<../../../../Resource/Pasted image 20250419165006.png>)
+![Image](<../../../Resource/Pasted image 20250419165006.png>)
 - 磁盘右击
-![Image](<../../../../Resource/Pasted image 20250419165131.png>)
+![Image](<../../../Resource/Pasted image 20250419165131.png>)
 - 分区右击
-![Image](<../../../../Resource/Pasted image 20250419165147.png>)
+![Image](<../../../Resource/Pasted image 20250419165147.png>)

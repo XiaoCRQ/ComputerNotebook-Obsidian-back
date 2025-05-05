@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/易错知识点总结/知识点目录.md",
+                "file": "计算机/易错知识点总结/网站/IIS管理器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "知识点目录"
+              "title": "IIS管理器"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "image",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "语文/错题整理/散文.md",
+                "file": "计算机/易错知识点总结/网站/IIS管理器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "散文 的反向链接列表"
+              "title": "IIS管理器 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/易错知识点总结/网络/网络目录.md",
+                "file": "计算机/易错知识点总结/网站/IIS管理器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "网络目录 的出链列表"
+              "title": "IIS管理器 的出链列表"
             }
           },
           {
@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,44 +171,45 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "502ed69353635b2f",
+  "active": "d130fa0611d1ef75",
   "lastOpenFiles": [
+    "计算机/易错知识点总结/Office/Excel/数据有效性.md",
+    "计算机/易错知识点总结/Office/Excel/数据透视表.md",
+    "计算机/易错知识点总结/Office/WPS/视图.md",
+    "计算机/易错知识点总结/Office/Word/目录.md",
+    "计算机/易错知识点总结/Office/PPT/母版.md",
+    "计算机/易错知识点总结/Office/PPT/节.md",
+    "计算机/易错知识点总结/Windows7/壁纸.md",
+    "计算机/易错知识点总结/常用软件/Ghost.md",
+    "计算机/易错知识点总结/常用软件/Nero.md",
+    "计算机/易错知识点总结/网络/结构化布线系统.md",
+    "计算机/易错知识点总结/网络/网络目录.md",
+    "计算机/易错知识点总结/网络/交换技术.md",
+    "计算机/易错知识点总结/常用软件/Diskgenius.md",
+    "计算机/易错知识点总结/常用软件/CrystalDiskMark.md",
+    "计算机/易错知识点总结/常用软件/CPU-Z.md",
+    "计算机/易错知识点总结/常用软件/常用软件目录.md",
+    "计算机/易错知识点总结/常用软件/3DMarkVantage.md",
+    "Resource/Pasted image 20250419164938.png",
+    "Resource/常德市联考答案-语文.pdf",
+    "Resource/常德市联考.pdf",
+    "Example.md",
+    "语文/README.md",
+    "语文/解题分析/写作.md",
+    "语文/错题整理/错题目录.md",
+    "语文/Resource/常德市联考.pdf.md",
+    "语文/Resource",
+    "README.md",
     "计算机/README.md",
     "计算机/易错知识点总结/知识点目录.md",
-    "语文/解题分析/散文.md",
-    "语文/解题分析/小说.md",
-    "语文/解题分析/写作.md",
-    "语文/解题分析/选择题.md",
-    "语文/错题整理/小说.md",
-    "语文/错题整理/散文.md",
-    "语文/错题整理/错题目录.md",
-    "语文/README.md",
-    "README.md",
-    "语文/解题分析/解题目录.md",
     "Git.md",
     "Resource/四校联考语文-答案.pdf",
-    "Resource/常德市联考答案-语文.pdf",
     "Resource/15-19阅读练习.pdf",
     "Resource/三模答案-语文.pdf",
     "Resource/三模.pdf",
     "Resource/二模答案-语文.pdf",
     "Resource/msoFC46.tmp",
     "Resource/msoF9E4.tmp",
-    "Resource/常德市联考.pdf",
-    "Resource/高考研究体三模.pdf",
-    "计算机/易错知识点总结/C语言/关键字.md",
-    "计算机/易错知识点总结/网络/交换技术.md",
-    "计算机/易错知识点总结/网络/网络目录.md",
-    "计算机/易错知识点总结/组装/cmd.md",
-    "计算机/易错知识点总结/网络/IPv4.md",
-    "计算机/易错知识点总结/Office/Excel/公式.md",
-    "计算机/易错知识点总结/Office/Word/目录.md",
-    "计算机/易错知识点总结/Office/Word/Word目录.md",
-    "语文/错题整理/综合实践.md",
-    "计算机/易错知识点总结/网页/CSS.md",
-    "语文/解题分析/综合实践.md",
-    "语文/解题分析/古诗文.md",
-    "语文/解题分析/现代文.md",
     "Resource/Pasted image 20250426205405.png",
     "Resource/Pasted image 20250426205355.png",
     "Resource/Pasted image 20250426205330.png",
@@ -218,7 +219,6 @@
     "Resource/Pasted image 20250426201201.png",
     "Resource/Pasted image 20250426200222.png",
     "Resource/Pasted image 20250426200132.png",
-    "Resource/Pasted image 20250426195956.png",
     "未命名.canvas"
   ]
 }

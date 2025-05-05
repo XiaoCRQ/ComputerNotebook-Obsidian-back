@@ -4,6 +4,7 @@
 
 # 目录
 
+- [语文](./语文/README.md)
 - [计算机](./计算机/README.md)
 - [Git](Git.md)
 - [考纲](./Resource/考纲.pdf)

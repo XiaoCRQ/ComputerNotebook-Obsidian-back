@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "计算机/易错知识点总结/知识点目录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "知识点目录"
             }
           }
         ]
@@ -173,14 +173,19 @@
   },
   "active": "502ed69353635b2f",
   "lastOpenFiles": [
-    "Git.md",
+    "计算机/README.md",
+    "计算机/易错知识点总结/知识点目录.md",
+    "语文/解题分析/散文.md",
+    "语文/解题分析/小说.md",
+    "语文/解题分析/写作.md",
+    "语文/解题分析/选择题.md",
+    "语文/错题整理/小说.md",
     "语文/错题整理/散文.md",
     "语文/错题整理/错题目录.md",
-    "语文/解题分析/写作.md",
-    "语文/解题分析/小说.md",
-    "语文/解题分析/散文.md",
+    "语文/README.md",
+    "README.md",
     "语文/解题分析/解题目录.md",
-    "语文/错题整理/小说.md",
+    "Git.md",
     "Resource/四校联考语文-答案.pdf",
     "Resource/常德市联考答案-语文.pdf",
     "Resource/15-19阅读练习.pdf",
@@ -194,8 +199,6 @@
     "计算机/易错知识点总结/C语言/关键字.md",
     "计算机/易错知识点总结/网络/交换技术.md",
     "计算机/易错知识点总结/网络/网络目录.md",
-    "README.md",
-    "语文/README.md",
     "计算机/易错知识点总结/组装/cmd.md",
     "计算机/易错知识点总结/网络/IPv4.md",
     "计算机/易错知识点总结/Office/Excel/公式.md",
@@ -205,10 +208,7 @@
     "计算机/易错知识点总结/网页/CSS.md",
     "语文/解题分析/综合实践.md",
     "语文/解题分析/古诗文.md",
-    "语文/解题分析/选择题.md",
     "语文/解题分析/现代文.md",
-    "计算机/易错知识点总结/组装/组装目录.md",
-    "语文/解题分析/文言文.md",
     "Resource/Pasted image 20250426205405.png",
     "Resource/Pasted image 20250426205355.png",
     "Resource/Pasted image 20250426205330.png",

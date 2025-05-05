@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/易错知识点总结/网络/网络拓扑结构.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "网络拓扑结构"
+              "title": "README"
             }
           }
         ]
@@ -168,15 +168,33 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "obsidian-git:Open Git source control": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "502ed69353635b2f",
   "lastOpenFiles": [
+    "计算机/易错知识点总结/网络/IPv4_IP.md",
     "计算机/易错知识点总结/网络/易错知识点整理.md",
     "计算机/易错知识点总结/网络/网络拓扑结构.md",
-    "计算机/易错知识点总结/网络/网络设备.md",
     "计算机/易错知识点总结/网络/网络目录.md",
+    "计算机/易错知识点总结/网络/结构化布线系统.md",
+    "计算机/易错知识点总结/网络/交换技术.md",
+    "语文/错题整理/散文.md",
+    "语文/错题整理/小说.md",
+    "语文/解题分析/写作.md",
+    "语文/解题分析/小说.md",
+    "语文/解题分析/散文.md",
+    "语文/解题分析/解题目录.md",
+    "语文/解题分析/选择题.md",
+    "Drawing 2025-05-05 22.10.16.excalidraw.md",
+    "Git.md",
+    "语文/未命名.canvas",
+    "计算机/易错知识点总结/常用软件/常用软件目录.md",
+    "计算机/易错知识点总结/常用软件/CPU-Z.md",
+    "计算机/易错知识点总结/常用软件/Diskgenius.md",
+    "计算机/易错知识点总结/常用软件/未命名.canvas",
+    "计算机/易错知识点总结/网络/网络设备.md",
     "计算机/易错知识点总结/组装/常见接口.md",
     "计算机/易错知识点总结/组装/打印机.md",
     "计算机/易错知识点总结/Office/Excel/易错点.md",
@@ -184,24 +202,9 @@
     "计算机/易错知识点总结/Office/Excel/页眉和页脚.md",
     "计算机/易错知识点总结/网站/IIS管理器.md",
     "计算机/易错知识点总结/Office/Excel/数据有效性.md",
-    "计算机/易错知识点总结/Office/WPS/视图.md",
-    "计算机/易错知识点总结/Office/Word/目录.md",
-    "计算机/易错知识点总结/Office/PPT/母版.md",
-    "计算机/易错知识点总结/Office/PPT/节.md",
-    "计算机/易错知识点总结/Windows7/壁纸.md",
-    "计算机/易错知识点总结/常用软件/Ghost.md",
-    "计算机/易错知识点总结/常用软件/Nero.md",
-    "计算机/易错知识点总结/网络/结构化布线系统.md",
-    "计算机/易错知识点总结/网络/交换技术.md",
-    "计算机/易错知识点总结/常用软件/Diskgenius.md",
-    "计算机/易错知识点总结/常用软件/CrystalDiskMark.md",
-    "计算机/易错知识点总结/常用软件/CPU-Z.md",
-    "计算机/易错知识点总结/常用软件/常用软件目录.md",
-    "计算机/易错知识点总结/常用软件/3DMarkVantage.md",
     "Resource/Pasted image 20250419164938.png",
     "Resource/常德市联考答案-语文.pdf",
     "Resource/常德市联考.pdf",
-    "Example.md",
     "语文/Resource",
     "Resource/四校联考语文-答案.pdf",
     "Resource/15-19阅读练习.pdf",

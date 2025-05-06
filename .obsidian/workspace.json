@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "语文/作文/心系中华文化.md",
+                "file": "语文/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "心系中华文化"
+              "title": "README"
             }
           }
         ]
@@ -174,9 +174,10 @@
   "active": "2404da528a9b1286",
   "lastOpenFiles": [
     "语文/作文/作文目录.md",
-    "语文/作文/天空虽无痕，而我已飞过.md",
-    "语文/作文/心系中华文化.md",
+    "计算机/README.md",
     "语文/README.md",
+    "语文/作文/心系中华文化.md",
+    "语文/作文/天空虽无痕，而我已飞过.md",
     "语文/作文",
     "语文/解题分析/散文.md",
     "语文/解题分析/小说.md",
@@ -206,7 +207,6 @@
     "语文/错题整理/选择题.md",
     "语文/错题整理/散文.md",
     "语文/错题整理/小说.md",
-    "语文/错题整理/错题目录.md",
     "Resource/Pasted image 20250506115616.png",
     "Resource/Pasted image 20250506115609.png",
     "Resource/Pasted image 20250506115600.png",

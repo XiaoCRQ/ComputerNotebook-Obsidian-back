@@ -18,7 +18,7 @@
 - 输入以下指令
 
 ```powershell
-git clone https://github.com/xiaoCRQ/obsidian
+git clone https://github.com/XiaoCRQ/obsidian
 ```
 
 ## 直接下载

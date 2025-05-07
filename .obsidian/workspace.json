@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/易错知识点总结/网络/IPv4_IP.md",
+                "file": "计算机/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IPv4_IP"
+              "title": "README"
             }
           }
         ]
@@ -173,12 +173,19 @@
   },
   "active": "2404da528a9b1286",
   "lastOpenFiles": [
+    "Resource/历年考察总结.pdf",
+    "计算机/README.md",
+    "Resource/函数总结.pdf",
+    "Resource/操作总结.pdf",
+    "README.md",
+    "语文/README.md",
+    "语文/解题分析/写作.md",
+    "计算机/易错知识点总结/网络/IPv4_IP.md",
     "计算机/易错知识点总结/网页/HTML.md",
     "计算机/易错知识点总结/网页/CSS.md",
     "计算机/易错知识点总结/网页/网页目录.md",
     "计算机/易错知识点总结/网页/表单.md",
     "计算机/易错知识点总结/网页/JavaScript.md",
-    "计算机/易错知识点总结/网络/IPv4_IP.md",
     "计算机/易错知识点总结/网络/IPv6.md",
     "计算机/易错知识点总结/网络/IPv4.md",
     "计算机/易错知识点总结/网络/易错知识点整理.md",
@@ -187,7 +194,6 @@
     "计算机/易错知识点总结/网络/结构化布线系统.md",
     "计算机/易错知识点总结/网络/交换技术.md",
     "计算机/易错知识点总结/网络/常见组网结构.md",
-    "计算机/README.md",
     "语文/错题整理/散文.md",
     "计算机/易错知识点总结/常用软件/3DMarkVantage.md",
     "计算机/易错知识点总结/网络/网络目录.md",
@@ -195,10 +201,6 @@
     "计算机/易错知识点总结/常用软件/CrystalDiskMark.md",
     "计算机/易错知识点总结/常用软件/CPU-Z.md",
     "语文/错题整理/小说.md",
-    "计算机/易错知识点总结/组装/组装目录.md",
-    "计算机/易错知识点总结/知识点目录.md",
-    "语文/错题整理/选择题.md",
-    "语文/作文/作文目录.md",
     "Resource/四校联考.pdf",
     "Resource/高考研究体三模.pdf",
     "Resource/四校联考语文-答案.pdf",
@@ -207,8 +209,6 @@
     "Resource/常德市联考答案-语文.pdf",
     "Resource/二模.pdf",
     "Resource/常德市联考.pdf",
-    "语文/作文",
-    "Resource/高考研究体二模.pdf",
     "Resource/Pasted image 20250506115616.png",
     "Resource/Pasted image 20250506115609.png",
     "Resource/Pasted image 20250506115600.png",

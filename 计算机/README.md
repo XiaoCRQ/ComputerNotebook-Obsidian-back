@@ -8,3 +8,4 @@
 - [历年操作总结](../Resource/操作总结.pdf)
 - [历年函数总结](../Resource/函数总结.pdf)
 - [历年Office总结](../Resource/历年考察总结.pdf)
+- [职教高考冲刺卷18套-答案](../Resource/2024计算机答案.pdf)

@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "asdfasasdfasdfasdf",
+                "query": "asdfasdfasdfasdf",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,

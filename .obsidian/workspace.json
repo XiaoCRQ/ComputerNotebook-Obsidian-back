@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "asdfasasdfasdfasdf",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,8 +172,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2404da528a9b1286",
+  "active": "00cba86faee15bd8",
   "lastOpenFiles": [
+    "计算机/未命名",
     "计算机/README.md",
     "Git.md",
     "Resource/2024计算机答案.pdf",
@@ -201,7 +203,6 @@
     "计算机/易错知识点总结/组装/易错知识点整理.md",
     "计算机/易错知识点总结/组装/我国巨型计算机.md",
     "计算机/易错知识点总结/组装/万用表.md",
-    "计算机/易错知识点总结/组装/南北桥芯片.md",
     "Resource/操作总结.pdf",
     "Resource/函数总结.pdf",
     "Resource/历年考察总结.pdf",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/网络安全/渗透工具/Wifi-Password.md",
+                "file": "计算机/网络安全/渗透工具/WIFI-PassWord.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wifi-Password"
+              "title": "WIFI-PassWord"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 307.5,
+    "collapsed": true
   },
   "right": {
     "id": "c2d9f38f26cfdb3f",
@@ -174,7 +175,7 @@
   "active": "2404da528a9b1286",
   "lastOpenFiles": [
     "计算机/网络安全/渗透工具/渗透工具目录.md",
-    "计算机/网络安全/渗透工具/Wifi-Password.md",
+    "计算机/网络安全/渗透工具/WIFI-PassWord.md",
     "计算机/网络安全/渗透工具/工具.md",
     "计算机/网络安全/网络安全目录.md",
     "计算机/网络安全/渗透工具",

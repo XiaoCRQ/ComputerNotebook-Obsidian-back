@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "计算机/易错知识点总结/组装/应用领域.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "应用领域"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 307.5,
+    "collapsed": true
   },
   "right": {
     "id": "c2d9f38f26cfdb3f",
@@ -173,10 +174,13 @@
   },
   "active": "220a88c2f97c61c1",
   "lastOpenFiles": [
+    "计算机/易错知识点总结/组装/组装目录.md",
     "计算机/易错知识点总结/知识点目录.md",
+    "计算机/易错知识点总结/Office/Office目录.md",
+    "计算机/README.md",
+    "Git.md",
     "Example.md",
     "README.md",
-    "Git.md",
     "计算机/易错知识点总结/网络/交换技术.md",
     "计算机/易错知识点总结/网络/常见组网结构.md",
     "计算机/网络安全/网络安全目录.md",
@@ -185,7 +189,6 @@
     "计算机/网络安全/渗透工具/渗透工具目录.md",
     "计算机/网络安全/渗透工具",
     "计算机/网络安全",
-    "计算机/README.md",
     "Resource/2024计算机答案.pdf",
     "Resource/二模.pdf",
     "计算机/易错知识点总结/Server2012/Server2012目录.md",
@@ -202,8 +205,6 @@
     "语文/作文/作文目录.md",
     "计算机/易错知识点总结/Server2012/DHCP.md",
     "计算机/易错知识点总结/Server2012/FTP.md",
-    "计算机/易错知识点总结/Server2012/Web.md",
-    "计算机/易错知识点总结/组装/POST卡.md",
     "Resource/操作总结.pdf",
     "Resource/函数总结.pdf",
     "Resource/历年考察总结.pdf",

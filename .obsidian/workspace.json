@@ -11,14 +11,12 @@
             "id": "220a88c2f97c61c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Git.md",
-                "mode": "source",
-                "source": false
+                "file": "Resource/2024计算机答案.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Git"
+              "icon": "lucide-file-text",
+              "title": "2024计算机答案"
             }
           }
         ]
@@ -173,6 +171,9 @@
   },
   "active": "220a88c2f97c61c1",
   "lastOpenFiles": [
+    "计算机/README.md",
+    "计算机/易错知识点总结/知识点目录.md",
+    "Git.md",
     "语文/作文/作文目录.md",
     "语文/作文/山河有信，创新如炬.md",
     "语文/作文/山河有信，文化如炬.md",
@@ -181,12 +182,9 @@
     "语文/README.md",
     "语文/解题分析/写作.md",
     "Resource/2024计算机答案.pdf",
-    "计算机/易错知识点总结/知识点目录.md",
-    "计算机/README.md",
     "计算机/易错知识点总结/组装/组装目录.md",
     "计算机/易错知识点总结/组装/应用领域.md",
     "计算机/易错知识点总结/Office/Office目录.md",
-    "Git.md",
     "Example.md",
     "README.md",
     "计算机/易错知识点总结/网络/交换技术.md",

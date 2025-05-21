@@ -1,5 +1,7 @@
 # FTP 服务器
 
+> [!WARNING]
+> 默认网站的存储路径为 `c:\inetpub\ftproot`
 - 右击网站
 - 添加FTP站点
 ![](../../../Resource/Pasted%20image%2020250426195029.png)
@@ -30,6 +32,3 @@
 ## FTP 授权规则
 ![](../../../Resource/Pasted%20image%2020250426195956.png)
 
-
-> [!WARNING]
-> 默认网站的存储路径为 `c:\inetpub\ftproot`

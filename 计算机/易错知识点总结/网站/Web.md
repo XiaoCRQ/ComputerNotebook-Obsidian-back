@@ -1,5 +1,8 @@
 # Web 服务器
 
+> [!WARNING]
+> 默认网站的存储路径为 `c:\inetpub\wwwroot`
+
 - 右击网站
 - 添加网站
 ![](../../../Resource/Pasted%20image%2020250426200132.png)
@@ -13,6 +16,3 @@
 ![](../../../Resource/Pasted%20image%2020250426201254.png)
 
 > 其他如上
-
-> [!WARNING]
-> 默认网站的存储路径为 `c:\inetpub\wwwroot`

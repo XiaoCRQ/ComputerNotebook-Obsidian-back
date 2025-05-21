@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/易错知识点总结/CentOS/cmd.md",
+                "file": "计算机/易错知识点总结/CentOS/常考知识点.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cmd"
+              "title": "常考知识点"
             }
           }
         ]
@@ -171,12 +171,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d130fa0611d1ef75",
+  "active": "092866ec3459fd83",
   "lastOpenFiles": [
     "计算机/易错知识点总结/CentOS/CentOS目录.md",
+    "计算机/易错知识点总结/CentOS/常考知识点.md",
+    "计算机/易错知识点总结/CentOS/cmd.md",
     "计算机/易错知识点总结/CentOS/DNS.md",
     "计算机/易错知识点总结/CentOS/user.md",
-    "计算机/易错知识点总结/CentOS/cmd.md",
     "计算机/易错知识点总结/组装/常见接口.md",
     "计算机/易错知识点总结/组装/组装目录.md",
     "计算机/易错知识点总结/组装/USB.md",
@@ -198,7 +199,6 @@
     "计算机/易错知识点总结/组装/万用表.md",
     "计算机/易错知识点总结/网络/网络拓扑结构.md",
     "计算机/易错知识点总结/网络/易错知识点整理.md",
-    "计算机/易错知识点总结/网络/网络设备.md",
     "Resource/Pasted image 20250521094109.png",
     "Resource/Pasted image 20250521094056.png",
     "Resource/Pasted image 20250521094044.png",

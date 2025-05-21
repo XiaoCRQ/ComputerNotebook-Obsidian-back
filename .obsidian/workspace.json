@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8c3f8551496faf2d",
+        "id": "a493c1446613d4a7",
         "type": "tabs",
         "children": [
           {
-            "id": "220a88c2f97c61c1",
+            "id": "092866ec3459fd83",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Resource/2024计算机答案.pdf"
+                "file": "计算机/易错知识点总结/Office/Word/导入表格.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "2024计算机答案"
+              "icon": "lucide-file",
+              "title": "导入表格"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5,
-    "collapsed": true
+    "width": 307.5
   },
   "right": {
     "id": "c2d9f38f26cfdb3f",
@@ -170,11 +171,29 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "220a88c2f97c61c1",
+  "active": "092866ec3459fd83",
   "lastOpenFiles": [
+    "Resource/Pasted image 20250520220546.png",
+    "Resource/Pasted image 20250520220505.png",
+    "Resource/Pasted image 20250520220229.png",
+    "Resource/Pasted image 20250520220032.png",
+    "Resource/Pasted image 20250520215911.png",
+    "Resource/Pasted image 20250520215843.png",
+    "计算机/易错知识点总结/Office/Word/页面设置.md",
+    "计算机/易错知识点总结/Office/Word/目录.md",
+    "计算机/易错知识点总结/Office/Word/导入表格.md",
+    "计算机/易错知识点总结/Office/Word/公式.md",
+    "计算机/易错知识点总结/Office/Word/Word目录.md",
+    "计算机/易错知识点总结/Office/Word/粘贴.md",
+    "计算机/易错知识点总结/Office/Word/邮件合并.md",
+    "计算机/易错知识点总结/常用软件/Diskgenius.md",
+    "计算机/易错知识点总结/常用软件/CrystalDiskMark.md",
+    "计算机/易错知识点总结/常用软件/常用软件目录.md",
+    "计算机/易错知识点总结/常用软件/3DMarkVantage.md",
     "计算机/易错知识点总结/C语言/文件操作.md",
-    "计算机/易错知识点总结/C语言/运算符.md",
+    "计算机/易错知识点总结/C语言/关键字.md",
     "Resource/2024计算机答案.pdf",
+    "计算机/易错知识点总结/C语言/运算符.md",
     "计算机/README.md",
     "计算机/易错知识点总结/知识点目录.md",
     "Git.md",
@@ -186,22 +205,9 @@
     "语文/README.md",
     "语文/解题分析/写作.md",
     "计算机/易错知识点总结/组装/组装目录.md",
-    "计算机/易错知识点总结/组装/应用领域.md",
-    "计算机/易错知识点总结/Office/Office目录.md",
-    "Example.md",
-    "README.md",
-    "计算机/易错知识点总结/网络/交换技术.md",
-    "计算机/易错知识点总结/网络/常见组网结构.md",
-    "计算机/网络安全/网络安全目录.md",
-    "计算机/网络安全/渗透工具/WIFI-PassWord.md",
-    "计算机/网络安全/渗透工具/工具.md",
-    "计算机/网络安全/渗透工具/渗透工具目录.md",
     "计算机/网络安全/渗透工具",
     "计算机/网络安全",
     "Resource/二模.pdf",
-    "计算机/易错知识点总结/Server2012/Server2012目录.md",
-    "语文/解题分析/小说.md",
-    "语文/解题分析/散文.md",
     "Resource/15-19阅读练习.pdf",
     "Resource/操作总结.pdf",
     "Resource/函数总结.pdf",
@@ -213,11 +219,6 @@
     "Resource/Pasted image 20250506115600.png",
     "Resource/Pasted image 20250506115507.png",
     "Resource/Pasted image 20250506115437.png",
-    "Resource/Pasted image 20250506114650.png",
-    "Resource/Pasted image 20250506114614.png",
-    "Resource/Pasted image 20250506114527.png",
-    "Resource/Pasted image 20250506114509.png",
-    "Resource/Pasted image 20250506113714.png",
     "语文/未命名.canvas",
     "计算机/易错知识点总结/常用软件/未命名.canvas",
     "未命名.canvas"

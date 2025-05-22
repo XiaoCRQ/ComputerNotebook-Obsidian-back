@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/易错知识点总结/知识点目录.md",
+                "file": "Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "知识点目录"
+              "title": "Git"
             }
           }
         ]
@@ -173,8 +173,13 @@
   },
   "active": "092866ec3459fd83",
   "lastOpenFiles": [
-    "计算机/易错知识点总结/CentOS/CentOS目录.md",
+    "计算机/网络安全/网络安全目录.md",
+    "README.md",
+    "Git.md",
+    "Example.md",
+    "Resource/2025年湖南省普通高等学校对口招生考试 东博金卷 语文 答案.pdf",
     "计算机/易错知识点总结/知识点目录.md",
+    "计算机/易错知识点总结/CentOS/CentOS目录.md",
     "计算机/README.md",
     "Resource/四校联考语文-答案.pdf",
     "Resource/Office.pdf",
@@ -204,21 +209,16 @@
     "计算机/易错知识点总结/组装/易错知识点整理.md",
     "计算机/易错知识点总结/组装/应用领域.md",
     "计算机/易错知识点总结/CentOS/cmd.md",
-    "Example.md",
-    "Git.md",
     "计算机/易错知识点总结/组装/cmd.md",
     "计算机/易错知识点总结/组装/POST卡.md",
     "计算机/易错知识点总结/组装/USB.md",
     "计算机/易错知识点总结/CentOS/DHCP - 四个核心角色.md",
     "计算机/易错知识点总结/CentOS/DHCP.md",
-    "计算机/易错知识点总结/组装/基础网络设备.md",
-    "计算机/易错知识点总结/组装/万用表.md",
     "计算机/网络安全/渗透工具",
     "计算机/网络安全",
     "Resource/二模.pdf",
     "Resource/操作总结.pdf",
     "Resource/函数总结.pdf",
-    "Resource/历年考察总结.pdf",
     "语文/未命名.canvas",
     "计算机/易错知识点总结/常用软件/未命名.canvas",
     "未命名.canvas"

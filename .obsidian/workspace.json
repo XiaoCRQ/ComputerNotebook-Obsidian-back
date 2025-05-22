@@ -11,12 +11,14 @@
             "id": "092866ec3459fd83",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Resource/2025年湖南省普通高等学校对口招生考试 东博金卷 语文 答案.pdf"
+                "file": "语文/作文/山河有信，创新如炬.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "2025年湖南省普通高等学校对口招生考试 东博金卷 语文 答案"
+              "icon": "lucide-file",
+              "title": "山河有信，创新如炬"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5,
-    "collapsed": true
+    "width": 307.5
   },
   "right": {
     "id": "c2d9f38f26cfdb3f",
@@ -172,6 +173,7 @@
   },
   "active": "092866ec3459fd83",
   "lastOpenFiles": [
+    "语文/作文/作文目录.md",
     "语文/README.md",
     "Resource/2025年湖南省普通高等学校对口招生考试 东博金卷 语文 答案.pdf",
     "Resource/2025年湖南省普通高等学校对口招生考试 东博金卷 语文 答案.md",

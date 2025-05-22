@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/易错知识点总结/Office/Word/查找替换.md",
+                "file": "计算机/易错知识点总结/知识点目录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "查找替换"
+              "title": "知识点目录"
             }
           }
         ]
@@ -173,6 +173,14 @@
   },
   "active": "092866ec3459fd83",
   "lastOpenFiles": [
+    "计算机/易错知识点总结/CentOS/CentOS目录.md",
+    "计算机/易错知识点总结/知识点目录.md",
+    "计算机/README.md",
+    "Resource/四校联考语文-答案.pdf",
+    "Resource/Office.pdf",
+    "Resource/2024计算机答案.pdf",
+    "Resource/15-19阅读练习.pdf",
+    "计算机/易错知识点总结/Office/Word/查找替换.md",
     "Resource/Pasted image 20250522100302.png",
     "Resource/Pasted image 20250522100250.png",
     "计算机/易错知识点总结/Office/Excel/条件格式.md",
@@ -189,7 +197,6 @@
     "计算机/易错知识点总结/组装/光盘.md",
     "计算机/易错知识点总结/Windows7/磁盘分区.md",
     "Resource/Pasted image 20250522095025.png",
-    "Resource/Pasted image 20250522094931.png",
     "计算机/易错知识点总结/Windows7/Windows7目录.md",
     "计算机/易错知识点总结/Windows7/相关常识.md",
     "计算机/易错知识点总结/网络/易错知识点整理.md",
@@ -206,19 +213,12 @@
     "计算机/易错知识点总结/CentOS/DHCP.md",
     "计算机/易错知识点总结/组装/基础网络设备.md",
     "计算机/易错知识点总结/组装/万用表.md",
-    "计算机/易错知识点总结/组装/环境因素.md",
-    "计算机/易错知识点总结/组装/电源.md",
-    "计算机/易错知识点总结/Office/Excel/合并计算.md",
-    "Resource/2024计算机答案.pdf",
     "计算机/网络安全/渗透工具",
     "计算机/网络安全",
     "Resource/二模.pdf",
-    "Resource/15-19阅读练习.pdf",
     "Resource/操作总结.pdf",
     "Resource/函数总结.pdf",
     "Resource/历年考察总结.pdf",
-    "Resource/常德市联考.pdf",
-    "Resource/四校联考.pdf",
     "语文/未命名.canvas",
     "计算机/易错知识点总结/常用软件/未命名.canvas",
     "未命名.canvas"

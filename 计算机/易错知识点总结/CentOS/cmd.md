@@ -14,6 +14,9 @@ ls -l /etc
 cd /var/log
 ```
 
+> [!WARNING] 
+> `cd -` 为进入上级目录
+
 - `cp`：复制文件/目录
 ```bash
 cp file1.txt /tmp/

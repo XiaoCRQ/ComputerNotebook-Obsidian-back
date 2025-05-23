@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/易错知识点总结/网络/易错知识点整理.md",
+                "file": "计算机/易错知识点总结/Office/Word/公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "易错知识点整理"
+              "title": "公式"
             }
           },
           {
@@ -33,7 +33,8 @@
               "title": "2024计算机答案"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,37 +184,39 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d130fa0611d1ef75",
+  "active": "e03cafc7bdf16904",
   "lastOpenFiles": [
-    "计算机/易错知识点总结/网页/特殊字符.md",
-    "Resource/2024计算机答案.pdf",
-    "计算机/易错知识点总结/网络/易错知识点整理.md",
-    "计算机/易错知识点总结/网页/网页目录.md",
-    "计算机/易错知识点总结/网页/表单.md",
-    "计算机/易错知识点总结/网页/CSS.md",
-    "计算机/易错知识点总结/网页/JavaScript.md",
-    "计算机/易错知识点总结/网页/HTML.md",
-    "计算机/易错知识点总结/网络/交换技术.md",
-    "计算机/易错知识点总结/组装/易错知识点整理.md",
+    "计算机/易错知识点总结/Office/Word/公式.md",
     "计算机/易错知识点总结/Office/Word/密码保护.md",
+    "计算机/易错知识点总结/Office/Word/Word目录.md",
+    "计算机/易错知识点总结/Office/Word/粘贴.md",
+    "计算机/易错知识点总结/Office/Word/邮件合并.md",
+    "计算机/易错知识点总结/Office/Word/页面设置.md",
+    "计算机/易错知识点总结/Office/Word/目录.md",
+    "计算机/易错知识点总结/Office/Word/段落设置.md",
+    "计算机/易错知识点总结/Office/Word/导入表格.md",
+    "计算机/易错知识点总结/Office/Word/查找替换.md",
+    "计算机/易错知识点总结/Office/Word/标尺.md",
+    "计算机/易错知识点总结/Office/PPT/PPT目录.md",
+    "计算机/易错知识点总结/Office/PPT/自动换片.md",
+    "计算机/易错知识点总结/Office/PPT/页面设置.md",
+    "计算机/易错知识点总结/Office/PPT/形状.md",
+    "计算机/易错知识点总结/Office/PPT/设置放映方式.md",
+    "计算机/易错知识点总结/Office/PPT/母版.md",
+    "计算机/易错知识点总结/Office/PPT/打印.md",
+    "计算机/易错知识点总结/Office/PPT/节.md",
+    "计算机/易错知识点总结/Office/PPT/打包成CD.md",
+    "计算机/易错知识点总结/Office/Excel/易错点.md",
+    "计算机/易错知识点总结/Office/Excel/数据透视表.md",
+    "计算机/易错知识点总结/Office/Excel/合并计算.md",
+    "计算机/易错知识点总结/Office/Excel/公式.md",
+    "计算机/易错知识点总结/Office/Excel/分类汇总.md",
+    "计算机/易错知识点总结/Office/Excel/条件格式.md",
+    "计算机/ArchLinux",
+    "Resource/2024计算机答案.pdf",
     "Resource/Pasted image 20250523105829.png",
     "Resource/Pasted image 20250523105754.png",
     "Resource/Pasted image 20250523105728.png",
-    "计算机/易错知识点总结/Office/Word/Word目录.md",
-    "计算机/易错知识点总结/Office/Word/粘贴.md",
-    "计算机/易错知识点总结/Office/WPS/WPS目录.md",
-    "计算机/易错知识点总结/Office/WPS/视图.md",
-    "计算机/易错知识点总结/Office/WPS/邮件合并.md",
-    "计算机/易错知识点总结/Office/Office目录.md",
-    "计算机/易错知识点总结/Office/基础信息.md",
-    "计算机/易错知识点总结/Office/Excel/易错点.md",
-    "计算机/易错知识点总结/Office/Excel/Excel目录.md",
-    "计算机/易错知识点总结/C语言/ASCII.md",
-    "计算机/易错知识点总结/C语言/C语言目录.md",
-    "计算机/易错知识点总结/C语言/字符串操作.md",
-    "计算机/易错知识点总结/C语言/运算符.md",
-    "计算机/易错知识点总结/C语言/关键字.md",
-    "计算机/易错知识点总结/C语言/文件操作.md",
     "Resource/2025年湖南省普通高等学校对口招生考试 东博金卷 语文 答案.pdf",
     "Resource/15-19阅读练习.pdf",
     "Resource/高考联合体第二次联考语文-答案.pdf",
@@ -229,7 +232,6 @@
     "计算机/网络安全/渗透工具",
     "计算机/网络安全",
     "Resource/二模.pdf",
-    "Resource/操作总结.pdf",
     "语文/未命名.canvas",
     "计算机/易错知识点总结/常用软件/未命名.canvas",
     "未命名.canvas"

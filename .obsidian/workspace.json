@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "守护劳动尊严，共舞智能文明"
             }
+          },
+          {
+            "id": "e95ed271b0204586",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,12 +187,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e03cafc7bdf16904",
+  "active": "e95ed271b0204586",
   "lastOpenFiles": [
+    "语文/作文/守护劳动尊严，共舞智能文明.md",
     "语文/作文/作文目录.md",
     "语文/作文/天空虽无痕，而我已飞过.md",
     "语文/作文/山河有信，文化如炬.md",
-    "语文/作文/守护劳动尊严，共舞智能文明.md",
     "语文/作文/山河有信，创新如炬.md",
     "计算机/易错知识点总结/Office/Word/公式.md",
     "语文/解题分析/小说.md",

@@ -4,22 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "a493c1446613d4a7",
+        "id": "21ae6f3b6b2e5946",
         "type": "tabs",
         "children": [
           {
-            "id": "092866ec3459fd83",
+            "id": "477a4969902dc6eb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Resource/2025年湖南省普通高等学校对口招生考试 东博金卷 语文 答案.pdf"
+                "file": "计算机/易错知识点总结/组装/cmd.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "2025年湖南省普通高等学校对口招生考试 东博金卷 语文 答案"
+              "icon": "lucide-file",
+              "title": "cmd"
+            }
+          },
+          {
+            "id": "811a03aa438fd68a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机/易错知识点总结/Office/Office目录.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Office目录"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ping",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5,
-    "collapsed": true
+    "width": 307.5
   },
   "right": {
     "id": "c2d9f38f26cfdb3f",
@@ -170,35 +186,41 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "092866ec3459fd83",
+  "active": "811a03aa438fd68a",
   "lastOpenFiles": [
-    "Resource/高考联合体第二次联考语文-答案.pdf",
-    "计算机/易错知识点总结/组装/易错知识点整理.md",
-    "Resource/2024计算机答案.pdf",
-    "计算机/易错知识点总结/网络/易错知识点整理.md",
-    "计算机/易错知识点总结/网络/网络目录.md",
     "计算机/易错知识点总结/知识点目录.md",
+    "Resource/2024计算机答案.pdf",
+    "计算机/易错知识点总结/组装/cmd.md",
+    "计算机/易错知识点总结/网络/结构化布线系统.md",
+    "计算机/易错知识点总结/网络/网络目录.md",
+    "计算机/易错知识点总结/网络/网络设备.md",
+    "计算机/易错知识点总结/网络/网络拓扑结构.md",
+    "计算机/易错知识点总结/网络/易错知识点整理.md",
+    "计算机/易错知识点总结/组装/易错知识点整理.md",
+    "计算机/易错知识点总结/组装/分区表.md",
+    "计算机/易错知识点总结/组装/组装目录.md",
+    "计算机/易错知识点总结/常用软件/常用软件目录.md",
+    "计算机/README.md",
+    "Resource/15-19阅读练习.pdf",
+    "Resource/2025年湖南省普通高等学校对口招生考试 东博金卷 语文 答案.pdf",
+    "Resource/高考联合体第二次联考语文-答案.pdf",
     "计算机/易错知识点总结/网络/交换技术.md",
     "计算机/易错知识点总结/C语言/C语言目录.md",
     "计算机/易错知识点总结/常用软件/Ghost.md",
     "计算机/易错知识点总结/常用软件/Diskgenius.md",
     "计算机/易错知识点总结/常用软件/CrystalDiskMark.md",
-    "Resource/2025年湖南省普通高等学校对口招生考试 东博金卷 语文 答案.pdf",
     "语文/README.md",
     "Resource/2025年湖南省普通高等学校对口招生考试 东博金卷 语文 答案.md",
-    "Resource/15-19阅读练习.pdf",
     "Git.md",
     "计算机/网络安全/网络安全目录.md",
     "README.md",
     "Example.md",
     "计算机/易错知识点总结/CentOS/CentOS目录.md",
-    "计算机/README.md",
     "Resource/四校联考语文-答案.pdf",
     "Resource/Office.pdf",
     "计算机/易错知识点总结/Office/Word/查找替换.md",
     "Resource/Pasted image 20250522100302.png",
     "Resource/Pasted image 20250522100250.png",
-    "计算机/易错知识点总结/Office/Excel/条件格式.md",
     "Resource/Pasted image 20250522100051.png",
     "Resource/Pasted image 20250522100033.png",
     "Resource/Pasted image 20250522100009.png",
@@ -206,18 +228,11 @@
     "Resource/Pasted image 20250522095912.png",
     "Resource/Pasted image 20250522095859.png",
     "Resource/Pasted image 20250522095843.png",
-    "计算机/易错知识点总结/Office/Excel/Excel目录.md",
-    "计算机/易错知识点总结/Office/Excel/易错点.md",
-    "计算机/易错知识点总结/组装/分区表.md",
-    "计算机/易错知识点总结/组装/光盘.md",
-    "计算机/易错知识点总结/Windows7/磁盘分区.md",
     "Resource/Pasted image 20250522095025.png",
-    "计算机/易错知识点总结/Windows7/Windows7目录.md",
     "计算机/网络安全/渗透工具",
     "计算机/网络安全",
     "Resource/二模.pdf",
     "Resource/操作总结.pdf",
-    "Resource/函数总结.pdf",
     "语文/未命名.canvas",
     "计算机/易错知识点总结/常用软件/未命名.canvas",
     "未命名.canvas"

@@ -25,12 +25,14 @@
             "id": "e03cafc7bdf16904",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Resource/2024计算机答案.pdf"
+                "file": "计算机/README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "2024计算机答案"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
@@ -186,6 +188,9 @@
   },
   "active": "e03cafc7bdf16904",
   "lastOpenFiles": [
+    "计算机/易错知识点总结/组装/易错知识点整理.md",
+    "计算机/易错知识点总结/组装/组装目录.md",
+    "Resource/2024计算机答案.pdf",
     "计算机/易错知识点总结/Office/Word/公式.md",
     "计算机/易错知识点总结/Office/Word/密码保护.md",
     "计算机/易错知识点总结/Office/Word/Word目录.md",
@@ -210,10 +215,7 @@
     "计算机/易错知识点总结/Office/Excel/数据透视表.md",
     "计算机/易错知识点总结/Office/Excel/合并计算.md",
     "计算机/易错知识点总结/Office/Excel/公式.md",
-    "计算机/易错知识点总结/Office/Excel/分类汇总.md",
-    "计算机/易错知识点总结/Office/Excel/条件格式.md",
     "计算机/ArchLinux",
-    "Resource/2024计算机答案.pdf",
     "Resource/Pasted image 20250523105829.png",
     "Resource/Pasted image 20250523105754.png",
     "Resource/Pasted image 20250523105728.png",

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/README.md",
-                "mode": "preview",
+                "file": "计算机/易错知识点总结/Office/Excel/Excel目录.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Excel目录"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 211.5
   },
   "right": {
     "id": "c2d9f38f26cfdb3f",
@@ -188,11 +188,14 @@
   },
   "active": "74268cff1aeccc8b",
   "lastOpenFiles": [
+    "计算机/易错知识点总结/Office/Excel/公式.md",
+    "计算机/易错知识点总结/Office/Excel/Excel目录.md",
     "计算机/复习清单.md",
-    "计算机/README.md",
-    "Resource/函数总结.pdf",
-    "Resource/历年考察总结.pdf",
+    "计算机/易错知识点总结/Office/Office目录.md",
     "计算机/易错知识点总结/知识点目录.md",
+    "计算机/README.md",
+    "Resource/历年考察总结.pdf",
+    "Resource/函数总结.pdf",
     "计算机/易错知识点总结/Windows7/Windows7目录.md",
     "计算机/易错知识点总结/常用软件/3DMarkVantage.md",
     "计算机/易错知识点总结/组装/USB.md",
@@ -204,7 +207,6 @@
     "计算机/易错知识点总结/组装/常见故障.md",
     "计算机/易错知识点总结/组装/打印机.md",
     "计算机/易错知识点总结/组装/打阻卡.md",
-    "计算机/易错知识点总结/Office/Excel/公式.md",
     "计算机/易错知识点总结/组装/cmd.md",
     "计算机/易错知识点总结/组装/应用领域.md",
     "计算机/易错知识点总结/组装/POST卡诊断流程.md",
@@ -215,7 +217,6 @@
     "计算机/易错知识点总结/Office/PPT/设置放映方式.md",
     "计算机/易错知识点总结/Office/PPT/母版.md",
     "计算机/易错知识点总结/Office/PPT/节.md",
-    "计算机/易错知识点总结/Office/基础信息.md",
     "Resource/2025年湖南省普通高等学校对口招生考试 东博金卷 语文 答案.pdf",
     "Resource/考纲.pdf",
     "Resource/2024计算机答案.pdf",

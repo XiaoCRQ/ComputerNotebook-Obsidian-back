@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "74268cff1aeccc8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机/易错知识点总结/组装/打印机.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "打印机"
+            }
+          },
+          {
             "id": "e03cafc7bdf16904",
             "type": "leaf",
             "state": {
@@ -19,20 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "复习清单"
-            }
-          },
-          {
-            "id": "74268cff1aeccc8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机/易错知识点总结/Office/Excel/Excel目录.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Excel目录"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "BIOS",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,11 +186,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "74268cff1aeccc8b",
+  "active": "e03cafc7bdf16904",
   "lastOpenFiles": [
+    "计算机/易错知识点总结/组装/打印机.md",
+    "计算机/复习清单.md",
+    "计算机/易错知识点总结/组装/组装目录.md",
+    "计算机/易错知识点总结/组装/我国巨型计算机.md",
+    "计算机/易错知识点总结/网络/易错知识点整理.md",
+    "计算机/易错知识点总结/组装/易错知识点整理.md",
+    "计算机/易错知识点总结/组装/诊断顺序.md",
+    "计算机/易错知识点总结/组装/应用领域.md",
     "计算机/易错知识点总结/Office/Excel/公式.md",
     "计算机/易错知识点总结/Office/Excel/Excel目录.md",
-    "计算机/复习清单.md",
+    "计算机/易错知识点总结/Office/Excel/分类汇总.md",
+    "计算机/易错知识点总结/Office/Excel/错误代码.md",
     "计算机/易错知识点总结/Office/Office目录.md",
     "计算机/易错知识点总结/知识点目录.md",
     "计算机/README.md",
@@ -200,23 +209,14 @@
     "计算机/易错知识点总结/常用软件/3DMarkVantage.md",
     "计算机/易错知识点总结/组装/USB.md",
     "Resource/操作总结.pdf",
-    "计算机/易错知识点总结/组装/组装目录.md",
     "计算机/易错知识点总结/组装/万用表.md",
     "计算机/易错知识点总结/组装/常见接口.md",
     "计算机/易错知识点总结/组装/初步诊断.md",
     "计算机/易错知识点总结/组装/常见故障.md",
-    "计算机/易错知识点总结/组装/打印机.md",
     "计算机/易错知识点总结/组装/打阻卡.md",
     "计算机/易错知识点总结/组装/cmd.md",
-    "计算机/易错知识点总结/组装/应用领域.md",
     "计算机/易错知识点总结/组装/POST卡诊断流程.md",
     "计算机/易错知识点总结/组装/南北桥芯片.md",
-    "计算机/易错知识点总结/Office/Excel/合并计算.md",
-    "计算机/易错知识点总结/Office/Excel/数据透视表.md",
-    "计算机/易错知识点总结/Office/PPT/形状.md",
-    "计算机/易错知识点总结/Office/PPT/设置放映方式.md",
-    "计算机/易错知识点总结/Office/PPT/母版.md",
-    "计算机/易错知识点总结/Office/PPT/节.md",
     "Resource/2025年湖南省普通高等学校对口招生考试 东博金卷 语文 答案.pdf",
     "Resource/考纲.pdf",
     "Resource/2024计算机答案.pdf",

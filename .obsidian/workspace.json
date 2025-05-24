@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/复习清单.md",
+                "file": "计算机/易错知识点总结/组装/常见接口.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "复习清单"
+              "title": "常见接口"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "声",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,8 +171,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e03cafc7bdf16904",
+  "active": "d130fa0611d1ef75",
   "lastOpenFiles": [
+    "计算机/易错知识点总结/组装/初步诊断.md",
+    "计算机/易错知识点总结/组装/POST卡.md",
+    "计算机/易错知识点总结/网页/JavaScript.md",
+    "计算机/复习清单.md",
     "语文/错题整理/错题目录.md",
     "Resource/常德市联考答案-语文.pdf",
     "Resource/常德市联考.pdf",
@@ -182,7 +186,6 @@
     "语文/错题整理/散文.md",
     "语文/解题分析/小说.md",
     "计算机/易错知识点总结/Office/Excel/公式.md",
-    "计算机/复习清单.md",
     "计算机/易错知识点总结/网络/网络目录.md",
     "计算机/易错知识点总结/网络/网络拓扑结构.md",
     "计算机/易错知识点总结/网络/易错知识点整理.md",
@@ -201,8 +204,6 @@
     "计算机/易错知识点总结/组装/应用领域.md",
     "计算机/易错知识点总结/Office/Excel/Excel目录.md",
     "计算机/易错知识点总结/Office/Excel/分类汇总.md",
-    "计算机/易错知识点总结/Office/Excel/错误代码.md",
-    "计算机/易错知识点总结/Office/Office目录.md",
     "Resource/历年考察总结.pdf",
     "Resource/函数总结.pdf",
     "Resource/操作总结.pdf",

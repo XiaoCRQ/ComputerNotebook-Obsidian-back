@@ -13,30 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "复习清单.md",
-                "mode": "source",
+                "file": "计算机/复习清单.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "复习清单"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d5134514df48032b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9ef5da312326e7b5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Resource/历年考察总结.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "历年考察总结"
             }
           }
         ]
@@ -96,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 307.5,
+    "collapsed": true
   },
   "right": {
     "id": "c2d9f38f26cfdb3f",
@@ -191,18 +174,18 @@
   },
   "active": "e03cafc7bdf16904",
   "lastOpenFiles": [
-    "Resource/历年考察总结.pdf",
-    "复习清单.md",
     "计算机/README.md",
-    "README.md",
-    "Resource/操作总结.pdf",
+    "计算机/复习清单.md",
     "Example.md",
+    "README.md",
+    "Resource/函数总结.pdf",
+    "Resource/操作总结.pdf",
+    "Resource/历年考察总结.pdf",
     "语文/作文/作文目录.md",
     "Git.md",
     "计算机/易错知识点总结/Office/Office目录.md",
     "计算机/易错知识点总结/知识点目录.md",
     "Resource/2024计算机答案.pdf",
-    "Resource/函数总结.pdf",
     "语文/作文/守护劳动尊严，共舞智能文明.md",
     "语文/作文/山河有信，创新如炬.md",
     "语文/作文/山河有信，文化如炬.md",

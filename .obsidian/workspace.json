@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/易错知识点总结/C语言/文件操作.md",
-                "mode": "preview",
+                "file": "计算机/网络安全/网络安全目录.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文件操作"
+              "title": "网络安全目录"
             }
           }
         ]
@@ -173,13 +173,22 @@
   },
   "active": "e03cafc7bdf16904",
   "lastOpenFiles": [
+    "语文/解题分析/著名诗人.md",
+    "语文/解题分析/解题目录.md",
+    "语文/README.md",
+    "语文/作文/作文目录.md",
+    "计算机/易错知识点总结/网络/结构化布线系统.md",
+    "Resource/5737f26acd302126ff05637f6cd9e1df 1.png",
+    "Resource/5737f26acd302126ff05637f6cd9e1df.png",
+    "计算机/易错知识点总结/网络/网络目录.md",
+    "计算机/易错知识点总结/网络/易错知识点整理.md",
+    "计算机/易错知识点总结/网络/网络设备.md",
+    "计算机/易错知识点总结/网络/交换技术.md",
+    "计算机/易错知识点总结/组装/易错知识点整理.md",
+    "计算机/易错知识点总结/C语言/文件操作.md",
     "计算机/易错知识点总结/C语言/关键字.md",
     "计算机/网络安全/渗透工具/工具.md",
     "计算机/网络安全/渗透工具/渗透工具目录.md",
-    "计算机/易错知识点总结/网络/结构化布线系统.md",
-    "计算机/易错知识点总结/网络/交换技术.md",
-    "计算机/易错知识点总结/网络/易错知识点整理.md",
-    "计算机/易错知识点总结/组装/易错知识点整理.md",
     "计算机/易错知识点总结/组装/光盘.md",
     "计算机/易错知识点总结/组装/电源.md",
     "计算机/易错知识点总结/Office/Word/Word目录.md",
@@ -192,13 +201,6 @@
     "计算机/易错知识点总结/网站/DHCP.md",
     "计算机/易错知识点总结/Office/Office目录.md",
     "计算机/易错知识点总结/Office/Excel/Excel目录.md",
-    "计算机/易错知识点总结/Office/Excel/分类汇总.md",
-    "计算机/易错知识点总结/Office/Excel/数据有效性.md",
-    "计算机/易错知识点总结/Office/Excel/合并计算.md",
-    "计算机/易错知识点总结/Office/Excel/数据透视表.md",
-    "计算机/易错知识点总结/Office/Excel/条件格式.md",
-    "计算机/易错知识点总结/Office/Word/公式.md",
-    "计算机/易错知识点总结/Office/Word/目录.md",
     "Resource/常德市联考答案-语文.pdf",
     "Resource/常德市联考.pdf",
     "Resource/三模.pdf",
@@ -217,8 +219,6 @@
     "Resource/Pasted image 20250522100051.png",
     "Resource/Pasted image 20250522100033.png",
     "Resource/Pasted image 20250522100009.png",
-    "Resource/Pasted image 20250522095952.png",
-    "Resource/Pasted image 20250522095912.png",
     "语文/未命名.canvas",
     "计算机/易错知识点总结/常用软件/未命名.canvas",
     "未命名.canvas"

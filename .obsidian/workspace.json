@@ -11,14 +11,12 @@
             "id": "e03cafc7bdf16904",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "语文/错题整理/错题目录.md",
-                "mode": "source",
-                "source": false
+                "file": "Resource/2024计算机答案.pdf"
               },
-              "icon": "lucide-file",
-              "title": "错题目录"
+              "icon": "lucide-file-text",
+              "title": "2024计算机答案"
             }
           }
         ]
@@ -173,11 +171,11 @@
   },
   "active": "e03cafc7bdf16904",
   "lastOpenFiles": [
+    "语文/错题整理/错题目录.md",
     "语文/错题整理/散文.md",
     "语文/错题整理/选择题.md",
     "语文/错题整理/小说.md",
     "Example.md",
-    "语文/错题整理/错题目录.md",
     "语文/解题分析/解题目录.md",
     "语文/解题分析/小说.md",
     "语文/解题分析/散文.md",

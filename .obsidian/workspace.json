@@ -11,12 +11,14 @@
             "id": "e03cafc7bdf16904",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Resource/2024计算机答案.pdf"
+                "file": "Git.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "2024计算机答案"
+              "icon": "lucide-file",
+              "title": "Git"
             }
           }
         ]
@@ -171,6 +173,9 @@
   },
   "active": "e03cafc7bdf16904",
   "lastOpenFiles": [
+    "README.md",
+    "Git.md",
+    "Resource/2024计算机答案.pdf",
     "语文/错题整理/错题目录.md",
     "语文/错题整理/散文.md",
     "语文/错题整理/选择题.md",
@@ -190,7 +195,6 @@
     "计算机/易错知识点总结/网络/交换技术.md",
     "计算机/易错知识点总结/网络/结构化布线系统.md",
     "计算机/易错知识点总结/网络/通信子网和资源子网.md",
-    "Git.md",
     "计算机/易错知识点总结/组装/cmd.md",
     "计算机/易错知识点总结/网络/IPv4_IP.md",
     "计算机/易错知识点总结/C语言/运算符.md",
@@ -207,7 +211,6 @@
     "Resource/历年考察总结.pdf",
     "Resource/函数总结.pdf",
     "Resource/操作总结.pdf",
-    "Resource/考纲.pdf",
     "Resource/Pasted image 20250523105829.png",
     "Resource/Pasted image 20250523105754.png",
     "Resource/Pasted image 20250523105728.png",

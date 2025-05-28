@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/易错知识点总结/C语言/易错题型.md",
+                "file": "语文/解题分析/阅读理解.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "易错题型"
+              "title": "阅读理解"
             }
           }
         ]
@@ -173,13 +173,14 @@
   },
   "active": "e03cafc7bdf16904",
   "lastOpenFiles": [
+    "计算机/易错知识点总结/C语言/易错题型.md",
+    "Resource/Pasted image 20250528131054.png",
     "Resource/Pasted image 20250528125650.png",
     "Resource/Pasted image 20250528125206.png",
     "Resource/Pasted image 20250528124945.png",
     "Resource/Pasted image 20250528124738.png",
     "Resource/Pasted image 20250528112635.png",
     "计算机/易错知识点总结/C语言/C语言目录.md",
-    "计算机/易错知识点总结/C语言/易错题型.md",
     "计算机/易错知识点总结/C语言/ASCII.md",
     "计算机/易错知识点总结/C语言/运算符.md",
     "计算机/易错知识点总结/C语言/空间和时间复杂度.md",
@@ -217,8 +218,6 @@
     "Resource/操作总结.pdf",
     "Resource/Pasted image 20250523105829.png",
     "Resource/Pasted image 20250523105754.png",
-    "Resource/Pasted image 20250523105728.png",
-    "Resource/Pasted image 20250522100302.png",
     "语文/未命名.canvas",
     "计算机/易错知识点总结/常用软件/未命名.canvas",
     "未命名.canvas"

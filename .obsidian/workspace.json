@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "计算机/README.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -173,8 +173,8 @@
   },
   "active": "e03cafc7bdf16904",
   "lastOpenFiles": [
-    "Resource/2025年湖南省普通高等学校对口招生考试 东博金卷 英语-答案.pdf",
     "README.md",
+    "Resource/2025年湖南省普通高等学校对口招生考试 东博金卷 英语-答案.pdf",
     "Git.md",
     "Example.md",
     "Resource/2024计算机答案.pdf",

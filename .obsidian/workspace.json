@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 211.5,
+    "collapsed": true
   },
   "right": {
     "id": "c2d9f38f26cfdb3f",
@@ -173,9 +174,12 @@
   },
   "active": "e03cafc7bdf16904",
   "lastOpenFiles": [
+    "语文/解题分析/写作.md",
+    "语文/解题分析/阅读理解.md",
+    "语文/解题分析/著名诗人.md",
+    "语文/作文/山河有信，文化如炬.md",
     "语文/作文/天空虽无痕，而我已飞过.md",
     "语文/作文/守护劳动尊严，共舞智能文明.md",
-    "语文/作文/山河有信，文化如炬.md",
     "语文/作文/山河有信，创新如炬.md",
     "计算机/易错知识点总结/Office/Word/目录.md",
     "计算机/易错知识点总结/常用软件/Nero.md",
@@ -193,14 +197,11 @@
     "语文/解题分析/古诗文/劝学.md",
     "语文/解题分析/古诗文/师说.md",
     "语文/解题分析/古诗文/雨霖铃.md",
-    "语文/解题分析/著名诗人.md",
     "语文/解题分析/古诗文/前赤壁赋.md",
     "语文/解题分析/解题目录.md",
     "语文/解题分析/古诗文",
     "Resource/考纲.pdf",
     "README.md",
-    "Git.md",
-    "Example.md",
     "Resource/Pasted image 20250528131054.png",
     "Resource/Pasted image 20250528125650.png",
     "Resource/Pasted image 20250528125206.png",

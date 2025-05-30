@@ -8,33 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e03cafc7bdf16904",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Resource/2024计算机答案.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2024计算机答案"
-            }
-          },
-          {
             "id": "32eee4f44472c373",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/易错知识点总结/CentOS/CentOS目录.md",
-                "mode": "source",
+                "file": "计算机/易错知识点总结/网络/网络设备.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CentOS目录"
+              "title": "网络设备"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,6 +173,19 @@
   },
   "active": "32eee4f44472c373",
   "lastOpenFiles": [
+    "计算机/易错知识点总结/网络/网络目录.md",
+    "计算机/易错知识点总结/网络/通信子网和资源子网.md",
+    "计算机/易错知识点总结/网络/结构化布线系统.md",
+    "计算机/易错知识点总结/网络/交换技术.md",
+    "计算机/易错知识点总结/网络/光纤.md",
+    "计算机/易错知识点总结/常用软件/CPU-Z.md",
+    "计算机/易错知识点总结/常用软件/Ghost.md",
+    "计算机/易错知识点总结/组装/打阻卡.md",
+    "计算机/易错知识点总结/组装/分区表.md",
+    "计算机/易错知识点总结/组装/光盘.md",
+    "计算机/易错知识点总结/组装/初步诊断.md",
+    "Resource/2024计算机答案.pdf",
+    "计算机/易错知识点总结/CentOS/CentOS目录.md",
     "计算机/易错知识点总结/CentOS/常考知识点.md",
     "计算机/易错知识点总结/C语言/C语言目录.md",
     "计算机/易错知识点总结/C语言/空间和时间复杂度.md",
@@ -193,15 +193,12 @@
     "计算机/易错知识点总结/组装/易错知识点整理.md",
     "计算机/易错知识点总结/组装/万用表.md",
     "计算机/易错知识点总结/组装/开机报错.md",
-    "计算机/易错知识点总结/组装/分区表.md",
     "计算机/易错知识点总结/组装/打印机.md",
     "计算机/易错知识点总结/组装/常见接口.md",
     "计算机/易错知识点总结/C语言/易错题型.md",
     "计算机/易错知识点总结/C语言/字符串操作.md",
     "计算机/易错知识点总结/C语言/ASCII.md",
-    "计算机/易错知识点总结/网络/通信子网和资源子网.md",
     "计算机/易错知识点总结/组装/应用领域.md",
-    "Resource/2024计算机答案.pdf",
     "计算机/README.md",
     "Resource/高考研究体三模.pdf",
     "Resource/高考研究体二模.pdf",
@@ -211,16 +208,6 @@
     "Resource/常德市联考.pdf",
     "Resource/常德市联考答案-语文.pdf",
     "Resource/15-19阅读练习.pdf",
-    "计算机/易错知识点总结/组装/字符编码转换.md",
-    "计算机/易错知识点总结/常用软件/Diskgenius.md",
-    "计算机/易错知识点总结/常用软件/CrystalDiskMark.md",
-    "计算机/易错知识点总结/Office/Word/查找替换.md",
-    "计算机/易错知识点总结/Office/Word/公式.md",
-    "计算机/易错知识点总结/Office/Word/目录.md",
-    "计算机/易错知识点总结/Office/Word/页面设置.md",
-    "计算机/易错知识点总结/Office/Excel/Excel目录.md",
-    "计算机/易错知识点总结/Office/Excel/易错点.md",
-    "计算机/易错知识点总结/Office/Excel/页眉和页脚.md",
     "Resource/2025年湖南省普通高等学校对口招生考试 东博金卷 英语-答案.pdf",
     "Resource/Pasted image 20250528131054.png",
     "Resource/Pasted image 20250528125650.png",

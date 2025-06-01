@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "阅读理解"
             }
+          },
+          {
+            "id": "b6d895f5303c7ad0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "语文/错题整理/散文.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "散文"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,10 +186,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c95cb9b7843bccf7",
+  "active": "b6d895f5303c7ad0",
   "lastOpenFiles": [
-    "语文/解题分析/艺术效果和人称.md",
+    "语文/解题分析/阅读理解.md",
+    "语文/错题整理/散文.md",
+    "语文/错题整理/小说.md",
     "语文/解题分析/解题目录.md",
+    "语文/解题分析/散文.md",
+    "语文/解题分析/艺术效果和人称.md",
     "语文/解题分析/古诗文/师说.md",
     "语文/解题分析/古诗文/雨霖铃.md",
     "语文/解题分析/古诗文/劝学.md",
@@ -189,15 +208,11 @@
     "计算机/易错知识点总结/Windows7/壁纸.md",
     "计算机/易错知识点总结/Windows7/磁盘分区.md",
     "计算机/易错知识点总结/网页/HTML.md",
-    "语文/解题分析/阅读理解.md",
     "语文/解题分析/手法.md",
-    "语文/解题分析/散文.md",
     "语文/解题分析/著名诗人.md",
     "语文/解题分析/写作.md",
     "语文/解题分析/小说.md",
     "语文/解题分析/作用.md",
-    "语文/错题整理/小说.md",
-    "语文/错题整理/散文.md",
     "语文/错题整理/错题目录.md",
     "Resource/考纲.pdf",
     "Resource/Pasted image 20250601170844.png",

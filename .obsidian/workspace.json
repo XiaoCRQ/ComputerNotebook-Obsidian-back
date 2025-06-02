@@ -35,8 +35,7 @@
               "title": "散文"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,10 +185,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b6d895f5303c7ad0",
+  "active": "c95cb9b7843bccf7",
   "lastOpenFiles": [
-    "语文/解题分析/阅读理解.md",
     "语文/错题整理/散文.md",
+    "Resource/15-19阅读练习.pdf",
+    "语文/解题分析/阅读理解.md",
     "语文/错题整理/小说.md",
     "语文/解题分析/解题目录.md",
     "语文/解题分析/散文.md",
@@ -213,7 +213,6 @@
     "语文/解题分析/写作.md",
     "语文/解题分析/小说.md",
     "语文/解题分析/作用.md",
-    "语文/错题整理/错题目录.md",
     "Resource/考纲.pdf",
     "Resource/Pasted image 20250601170844.png",
     "Resource/2025年湖南省普通高等学校对口招生考试 东博金卷 英语-答案.pdf",
@@ -224,7 +223,6 @@
     "Resource/高考联合体第三次联考语文-答案.pdf",
     "Resource/四校联考.pdf",
     "Resource/常德市联考.pdf",
-    "Resource/常德市联考答案-语文.pdf",
     "Resource/Pasted image 20250528131054.png",
     "Resource/Pasted image 20250528125650.png",
     "Resource/Pasted image 20250528125206.png",

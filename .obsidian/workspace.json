@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,10 +200,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "03bacf5e368132d1",
+  "active": "9ebc419077259699",
   "lastOpenFiles": [
-    "计算机/2025年对口升学——计算机复习清单.md",
     "计算机/易错知识点总结/Office/Excel/公式.md",
+    "计算机/2025年对口升学——计算机复习清单.md",
     "语文/作文/执炬青春，共舞AI.md",
     "计算机/复习清单.md",
     "计算机/ArchLinux/根目录结构与作用说明.md",

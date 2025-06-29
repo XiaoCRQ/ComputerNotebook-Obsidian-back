@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Git"
             }
           }
         ]
@@ -171,12 +171,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d130fa0611d1ef75",
+  "active": "b711acaaab02af58",
   "lastOpenFiles": [
+    "Example.md",
+    "README.md",
     "Git.md",
     "计算机/README.md",
-    "README.md",
-    "Example.md",
     "语文/错题整理/小说.md",
     "语文/错题整理/散文.md",
     "conflict-files-obsidian-git.md",

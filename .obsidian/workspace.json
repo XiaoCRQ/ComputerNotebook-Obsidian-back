@@ -11,12 +11,14 @@
             "id": "b711acaaab02af58",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Resource/2024计算机答案.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "2024计算机答案"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5,
-    "collapsed": true
+    "width": 307.5
   },
   "right": {
     "id": "c2d9f38f26cfdb3f",
@@ -172,23 +173,31 @@
   },
   "active": "b711acaaab02af58",
   "lastOpenFiles": [
+    "Git.md",
+    "README.md",
+    "Resource/考纲.pdf",
+    "计算机/README.md",
+    "Example.md",
+    "语文/错题整理/小说.md",
+    "语文/错题整理/散文.md",
+    "语文/解题分析/解题目录.md",
+    "语文/解题分析/散文.md",
+    "语文/解题分析/小说.md",
+    "语文/错题整理/选择题.md",
+    "语文/错题整理/错题目录.md",
+    "Resource/2024计算机答案.pdf",
     "语文/README.md",
     "Resource/Office.pdf",
     "计算机/易错知识点总结/Office/Office目录.md",
     "计算机/易错知识点总结/知识点目录.md",
-    "计算机/README.md",
-    "Example.md",
     "语文/作文/山河有信，创新如炬.md",
     "语文/作文/作文目录.md",
     "Resource/2025年湖南省普通高等学校对口招生考试 东博金卷 语文 答案.pdf",
     "Resource/2025年湖南省普通高等学校对口招生考试 东博金卷 语文 答案.md",
     "Resource/15-19阅读练习.pdf",
-    "Git.md",
     "计算机/网络安全/网络安全目录.md",
-    "README.md",
     "计算机/易错知识点总结/CentOS/CentOS目录.md",
     "Resource/四校联考语文-答案.pdf",
-    "Resource/2024计算机答案.pdf",
     "计算机/易错知识点总结/Office/Word/查找替换.md",
     "Resource/Pasted image 20250522100302.png",
     "Resource/Pasted image 20250522100250.png",
@@ -204,19 +213,11 @@
     "计算机/易错知识点总结/Office/Excel/易错点.md",
     "计算机/易错知识点总结/组装/分区表.md",
     "计算机/易错知识点总结/组装/光盘.md",
-    "计算机/易错知识点总结/Windows7/磁盘分区.md",
     "Resource/Pasted image 20250522095025.png",
-    "计算机/易错知识点总结/Windows7/Windows7目录.md",
-    "计算机/易错知识点总结/Windows7/相关常识.md",
-    "计算机/易错知识点总结/网络/易错知识点整理.md",
-    "计算机/易错知识点总结/网络/交换技术.md",
-    "计算机/易错知识点总结/组装/易错知识点整理.md",
-    "计算机/易错知识点总结/组装/应用领域.md",
     "计算机/网络安全/渗透工具",
     "计算机/网络安全",
     "Resource/二模.pdf",
     "Resource/操作总结.pdf",
-    "Resource/函数总结.pdf",
     "语文/未命名.canvas",
     "计算机/易错知识点总结/常用软件/未命名.canvas",
     "未命名.canvas"

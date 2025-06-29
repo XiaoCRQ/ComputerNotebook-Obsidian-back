@@ -71,3 +71,15 @@
 - 按 `F3` 打开/关闭“收藏夹”面板
 - 按 `F10` 保存所有更改并退出 BIOS
 - 按 `Esc` 放弃更改或返回上级
+
+## 6. 助记
+
+- **Main** —— 系统设置
+- **Ai Tweaker** —— 超频
+- **Advanced** —— 设备配置
+- **Monitor** —— 显示各项参数
+- **Boot** —— 系统引导
+- **Tool** —— BIOS 工具
+- **Exit** —— 退出
+- **My Favorites（收藏夹）**
+- **Summary / Overview（概要）**

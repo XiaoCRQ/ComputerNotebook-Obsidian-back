@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Resource/Office.pdf"
+                "file": "Resource/2024计算机答案.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Office"
+              "title": "2024计算机答案"
             }
           }
         ]
@@ -172,10 +172,11 @@
   },
   "active": "b711acaaab02af58",
   "lastOpenFiles": [
+    "语文/README.md",
+    "Resource/Office.pdf",
     "计算机/易错知识点总结/Office/Office目录.md",
     "计算机/易错知识点总结/知识点目录.md",
     "计算机/README.md",
-    "语文/README.md",
     "Example.md",
     "语文/作文/山河有信，创新如炬.md",
     "语文/作文/作文目录.md",
@@ -187,7 +188,6 @@
     "README.md",
     "计算机/易错知识点总结/CentOS/CentOS目录.md",
     "Resource/四校联考语文-答案.pdf",
-    "Resource/Office.pdf",
     "Resource/2024计算机答案.pdf",
     "计算机/易错知识点总结/Office/Word/查找替换.md",
     "Resource/Pasted image 20250522100302.png",
@@ -212,7 +212,6 @@
     "计算机/易错知识点总结/网络/交换技术.md",
     "计算机/易错知识点总结/组装/易错知识点整理.md",
     "计算机/易错知识点总结/组装/应用领域.md",
-    "计算机/易错知识点总结/CentOS/cmd.md",
     "计算机/网络安全/渗透工具",
     "计算机/网络安全",
     "Resource/二模.pdf",
